@@ -1,6 +1,6 @@
 # Multimorbidity in tuberculosis-affected households: evaluation of disease clustering and the acceptability and yield of integrated health screening in East and Southern Africa (IMBA Hutano)
 
-Corresponding datasets are available via LSHTM data compass (link to be added)
+Corresponding datasets are available via LSHTM data compass <https://doi.org/10.17037/DATA.00004267.>
 
 Contact: claire.calderwood2@lshtm.ac.uk
 
